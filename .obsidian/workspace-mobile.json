@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f29de21ef649b4a3",
+        "id": "5252b0fd973c4c13",
         "type": "tabs",
         "children": [
           {
-            "id": "ffdaf56e157f0b81",
+            "id": "c5f9081c416fcd4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,12 +123,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffdaf56e157f0b81",
+  "active": "c5f9081c416fcd4b",
   "lastOpenFiles": [
+    "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양/자연과학과기술세미나",
     "Untitled",
     "과학은 반역이다.md",
-    "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양",
     "동국대/1학년/범죄심리",
     "동국대/1학년/경찰학",
@@ -146,7 +138,6 @@
     "README.md",
     "SOFT/공통 질문.md",
     "SOFT",
-    "자격증/정보처리기사/정보처리기사 필기 정리본.pdf",
-    "자격증/정보처리기사"
+    "자격증/정보처리기사/정보처리기사 필기 정리본.pdf"
   ]
 }
