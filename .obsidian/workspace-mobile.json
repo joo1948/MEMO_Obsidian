@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebcbd3476fae2b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "범죄심리학.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SOFT/공통 질문.md",
+            "file": "범죄심리학.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SOFT/공통 질문.md",
+            "file": "범죄심리학.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SOFT/공통 질문.md"
+            "file": "범죄심리학.md"
           }
         }
       }
@@ -131,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5f9081c416fcd4b",
+  "active": "ebcbd3476fae2b20",
   "lastOpenFiles": [
+    "SOFT/공통 질문.md",
+    "범죄심리학.md",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양/자연과학과기술세미나",
     "Untitled",
@@ -144,7 +159,6 @@
     "동국대/1학년",
     "동국대",
     "README.md",
-    "SOFT/공통 질문.md",
     "SOFT",
     "자격증/정보처리기사/정보처리기사 필기 정리본.pdf"
   ]
