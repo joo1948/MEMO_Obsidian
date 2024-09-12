@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a9e63add174424e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -146,8 +154,8 @@
   },
   "active": "ebcbd3476fae2b20",
   "lastOpenFiles": [
-    "SOFT/공통 질문.md",
     "용감한 학생들.md",
+    "SOFT/공통 질문.md",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양/자연과학과기술세미나",
     "Untitled",
