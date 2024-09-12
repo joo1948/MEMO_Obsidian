@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "용감한 학생들.md",
+            "file": "SOFT/공통 질문.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "용감한 학생들.md",
+            "file": "SOFT/공통 질문.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "용감한 학생들.md"
+            "file": "SOFT/공통 질문.md"
           }
         }
       }
@@ -152,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebcbd3476fae2b20",
+  "active": "c5f9081c416fcd4b",
   "lastOpenFiles": [
     "용감한 학생들.md",
     "SOFT/공통 질문.md",
