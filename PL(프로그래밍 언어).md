@@ -38,7 +38,8 @@ b = int(input())
 adder = Adder(a, b)
 print(adder.add())
 ```
-### 예시 입력값 : 10 25
+### 예시 입력값 : 10 
+### 예시 입력값 : 25
 ### 결과값 : 35
 # Prolog(논리형)
 ``` prolog
@@ -49,8 +50,10 @@ add(A, B, Sum) :- Sum is A + B.
    add(A, B, Sum), 
    write(Sum), nl.
 ```
-### 예시 입력값 : 10 25
+### 예시 입력값 : 10
+### 예시 입력값 : 25
 ### 결과값 : 35
+
 
 
 # 
