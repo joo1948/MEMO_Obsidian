@@ -44,11 +44,13 @@ print(adder.add())
 ``` prolog
 add(A, B, Sum) :- Sum is A + B.
 
-?- write('Enter first number: '), read(A), 
-   write('Enter second number: '), read(B), 
+?- read(A), 
+   read(B), 
    add(A, B, Sum), 
    write(Sum), nl.
 ```
+### 예시 입력값 : 10 25
+### 결과값 : 35
 
 
 # 
