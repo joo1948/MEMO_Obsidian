@@ -8,7 +8,10 @@
 
 (print (add-two-numbers 10 25))
 ```
-### 결과값 : 35
+```
+	35
+```
+
 ## C(절차형)
 ``` C
 #include <stdio.h>
@@ -24,7 +27,11 @@ int main() {
     return 0;
 }
 ```
-### 결과값 : 35
+```
+	10 25
+	35
+```
+
 ## Python(객체)
 ```python
 def input_and_add():
@@ -37,6 +44,13 @@ def input_and_add():
 	print(f"두 숫자의 합은: {result}")
 
 input_and_add()
+
+```
+``` 
+	10
+	25
+	두 숫자의 합은: 35
+	
 ```
 ```Python
 
@@ -55,9 +69,13 @@ adder = Adder(a, b)
 
 print(adder.add())
 ```
-### 예시 입력값 : 10 
-### 예시 입력값 : 25
-### 결과값 : 35
+```
+	10
+	25
+	35
+```
+
+
 ## Prolog(논리형)
 ``` prolog
 add(A, B, Sum) :- Sum is A + B.
@@ -67,10 +85,12 @@ add(A, B, Sum) :- Sum is A + B.
    add(A, B, Sum), 
    write(Sum), nl.
 ```
-### 예시 입력값 : 10
-### 예시 입력값 : 25
-### 결과값 : 35
 
+```
+	10
+	25
+	35
+```
 --—————————————————————————————————
 # 과제 2
 #### python 
