@@ -1,4 +1,6 @@
-# Lisp(함수형)
+# 과제 1
+
+## Lisp(함수형)
 
 ``` lisp
 (defun add-two-numbers (a b)
@@ -7,7 +9,7 @@
 (print (add-two-numbers 10 25))
 ```
 ### 결과값 : 35
-# C(절차형)
+## C(절차형)
 ``` C
 #include <stdio.h>
 
@@ -23,7 +25,7 @@ int main() {
 }
 ```
 ### 결과값 : 35
-# Python(객체)
+## Python(객체)
 ```Python
 class Adder:
     def __init__(self, a, b):
@@ -41,7 +43,7 @@ print(adder.add())
 ### 예시 입력값 : 10 
 ### 예시 입력값 : 25
 ### 결과값 : 35
-# Prolog(논리형)
+## Prolog(논리형)
 ``` prolog
 add(A, B, Sum) :- Sum is A + B.
 
@@ -54,6 +56,7 @@ add(A, B, Sum) :- Sum is A + B.
 ### 예시 입력값 : 25
 ### 결과값 : 35
 
-
-
-# 
+--—————————————————————————————————
+# 과제 2
+#### python 
+![[IMG_0260.jpeg]]
