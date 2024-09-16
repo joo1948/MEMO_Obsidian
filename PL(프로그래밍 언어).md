@@ -62,3 +62,6 @@ add(A, B, Sum) :- Sum is A + B.
 ![[IMG_0261.jpeg]]
 
 #### C
+![[IMG_0263.jpeg]]
+
+#### JAVA
