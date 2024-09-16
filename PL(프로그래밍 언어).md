@@ -26,7 +26,20 @@ int main() {
 ```
 ### 결과값 : 35
 ## Python(객체)
+```python
+def input_and_add():
+
+	num1 = int(input())
+	num2 = int(input())
+  
+	result = num1 + num2
+  
+	print(f"두 숫자의 합은: {result}")
+
+input_and_add()
+```
 ```Python
+
 class Adder:
     def __init__(self, a, b):
         self.a = a
@@ -37,7 +50,9 @@ class Adder:
 
 a = int(input())
 b = int(input())
+
 adder = Adder(a, b)
+
 print(adder.add())
 ```
 ### 예시 입력값 : 10 
