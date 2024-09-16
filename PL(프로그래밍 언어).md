@@ -60,3 +60,5 @@ add(A, B, Sum) :- Sum is A + B.
 # 과제 2
 #### python 
 ![[IMG_0261.jpeg]]
+
+#### C
