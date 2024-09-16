@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3973e0188f0c1a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일본어 문화 과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ebcbd3476fae2b20",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "과학은 반역이다.md",
+            "file": "일본어 문화 과제.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "과학은 반역이다.md",
+            "file": "일본어 문화 과제.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "과학은 반역이다.md"
+            "file": "일본어 문화 과제.md"
           }
         }
       }
@@ -151,14 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5f9081c416fcd4b",
+  "active": "3973e0188f0c1a70",
   "lastOpenFiles": [
+    "과학은 반역이다.md",
+    "일본어 문화 과제.md",
+    "동국대/1학년/교양/일본어",
     "SOFT/공통 질문.md",
     "용감한 학생들.md",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양/자연과학과기술세미나",
-    "Untitled",
-    "과학은 반역이다.md",
     "동국대/1학년/교양",
     "동국대/1학년/범죄심리",
     "동국대/1학년/경찰학",
