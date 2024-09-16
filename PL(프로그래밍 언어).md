@@ -6,14 +6,23 @@
 
 (print (add-two-numbers 10 25))
 ```
-
+### 결과값 : 35
 # C(절차형)
 ``` C
-	(defun add-two-numbers (a b)
-  (+ a b))
+#include <stdio.h>
 
-(print (add-two-numbers 10 25))
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int a, b;
+    scanf("%d %d", &a, &b);
+    printf("%d\n", add(a, b));
+    return 0;
+}
 ```
+### 결과값 : 35
 # Python(객체)
 ```Python
 class Adder:
@@ -24,11 +33,13 @@ class Adder:
     def add(self):
         return self.a + self.b
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = int(input())
+b = int(input())
 adder = Adder(a, b)
-print("Sum:", adder.add())
+print(adder.add())
 ```
+### 예시 입력값 : 10 25
+### 결과값 : 35
 # Prolog(논리형)
 ``` prolog
 add(A, B, Sum) :- Sum is A + B.
@@ -36,6 +47,8 @@ add(A, B, Sum) :- Sum is A + B.
 ?- write('Enter first number: '), read(A), 
    write('Enter second number: '), read(B), 
    add(A, B, Sum), 
-   write('Sum: '), write(Sum), nl.
+   write(Sum), nl.
 ```
 
+
+# 
