@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
+            "file": "용감한 학생들.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
+            "file": "용감한 학생들.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md"
+            "file": "용감한 학생들.md"
           }
         }
       }
@@ -175,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5f9081c416fcd4b",
+  "active": "ebcbd3476fae2b20",
   "lastOpenFiles": [
+    "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "과학은 반역이다.md",
     "일본어 문화 과제.md",
     "PL(프로그래밍 언어).md",
@@ -186,7 +188,6 @@
     "용감한 학생들.md",
     "동국대/1학년/교양/일본어",
     "SOFT/공통 질문.md",
-    "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
     "동국대/1학년/교양/자연과학과기술세미나",
     "동국대/1학년/교양",
     "동국대/1학년/범죄심리",
