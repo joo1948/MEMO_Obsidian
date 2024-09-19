@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "자기세(09-19).md",
+            "file": "용감한 학생들.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "자기세(09-19).md",
+            "file": "용감한 학생들.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "자기세(09-19).md"
+            "file": "용감한 학생들.md"
           }
         }
       }
@@ -188,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efb56cd8f3f3c165",
+  "active": "ebcbd3476fae2b20",
   "lastOpenFiles": [
     "PL(프로그래밍 언어).md",
     "자기세(09-19).md",
