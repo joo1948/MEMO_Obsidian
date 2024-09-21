@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba79b40912525a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정보처리기사 - 실기 - 정보 요약.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "동국대/1학년/범죄심리학/0919 범죄심리학.md",
+            "file": "정보처리기사 - 실기 - 정보 요약.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "동국대/1학년/범죄심리학/0919 범죄심리학.md",
+            "file": "정보처리기사 - 실기 - 정보 요약.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "동국대/1학년/범죄심리학/0919 범죄심리학.md"
+            "file": "정보처리기사 - 실기 - 정보 요약.md"
           }
         }
       }
@@ -180,9 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebcbd3476fae2b20",
+  "active": "ba79b40912525a21",
   "lastOpenFiles": [
     "동국대/1학년/범죄심리학/0919 범죄심리학.md",
+    "정보처리기사 - 실기 - 정보 요약.md",
+    "자격증/정보처리기사/실기",
     "동국대/1학년/교양/일본어/일본어 문화 과제.md",
     "동국대/1학년/교양/일본어",
     "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
@@ -203,7 +217,6 @@
     "동국대/1학년/교양",
     "동국대/1학년/범죄심리",
     "동국대/1학년/경찰학",
-    "동국대/1학년/프로그래밍언어",
     "README.md"
   ]
 }
