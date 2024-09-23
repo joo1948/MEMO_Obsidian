@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사 - 실기 - 정보 요약.md",
-                "mode": "source",
+                "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "정보처리기사 - 실기 - 정보 요약.md",
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "정보처리기사 - 실기 - 정보 요약.md",
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "정보처리기사 - 실기 - 정보 요약.md"
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md"
           }
         }
       }
@@ -194,8 +194,8 @@
   },
   "active": "ba79b40912525a21",
   "lastOpenFiles": [
-    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
     "정보처리기사 - 실기 - 정보 요약.md",
+    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
     "자격증/정보처리기사/실기",
     "동국대/1학년/교양/일본어/일본어 문화 과제.md",
     "동국대/1학년/교양/일본어",
