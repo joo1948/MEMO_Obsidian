@@ -8,7 +8,9 @@
   (+ a b))
 
 (print (add-two-numbers 10 25))
+
 ```
+[결과]
 ```
 	35
 ```
@@ -28,6 +30,8 @@ int main() {
     return 0;
 }
 ```
+
+[결과]
 ```
 	10 25
 	35
@@ -47,6 +51,7 @@ def input_and_add():
 input_and_add()
 
 ```
+[결과]
 ``` 
 	10
 	25
@@ -70,6 +75,8 @@ adder = Adder(a, b)
 
 print(adder.add())
 ```
+
+[결과]
 ```
 	10
 	25
@@ -87,6 +94,7 @@ add(A, B, Sum) :- Sum is A + B.
    write(Sum), nl.
 ```
 
+[결과]
 ```
 	10
 	25
@@ -94,15 +102,12 @@ add(A, B, Sum) :- Sum is A + B.
 ```
 
 
-———————————————————————————————————————————————
 # 과제 2
 #### python 
-![image](https://github.com/user-attachments/assets/fc7ddc93-0be9-4634-b82c-3ee29891a9a2)
-
+![[IMG_0261.jpeg]]
 
 #### C
-![image](https://github.com/user-attachments/assets/7fdc6076-8239-4ee4-ab34-09919afd1df9)
-
+![[IMG_0263.jpeg]]
 
 #### JAVA
-![image](https://github.com/user-attachments/assets/5137fd8d-27d4-49f1-ab5c-d71eee91d319)
+![[IMG_0264.jpeg]]
