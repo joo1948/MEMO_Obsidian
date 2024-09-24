@@ -35,11 +35,14 @@
             "id": "71770b83db63cc04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -134,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
+            "file": "Untitled 1.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
+            "file": "Untitled 1.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md"
+            "file": "Untitled 1.canvas"
           }
         }
       }
@@ -182,9 +185,10 @@
   },
   "active": "71770b83db63cc04",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
     "동국대/1학년/범죄심리학/0919 범죄심리학.md",
     "Untitled.canvas",
-    "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
     "정보처리기사 - 실기 - 정보 요약.md",
     "자격증/정보처리기사/실기",
     "동국대/1학년/교양/일본어/일본어 문화 과제.md",
