@@ -25,24 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동국대/1학년/교양/일본어/일본어 문화 과제.md",
+                "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "71770b83db63cc04",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
               }
             }
           },
@@ -71,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.canvas",
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled 1.canvas",
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled 1.canvas"
+            "file": "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md"
           }
         }
       }
@@ -183,22 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71770b83db63cc04",
+  "active": "3973e0188f0c1a70",
   "lastOpenFiles": [
+    "동국대/1학년/교양/일본어/일본어 문화 과제.md",
+    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
+    "동국대/1학년/교양/자연과학과기술세미나/자기세(09-19).md",
     "Untitled 1.canvas",
     "동국대/1학년/프로그래밍언어론/PL(프로그래밍 언어).md",
-    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
     "Untitled.canvas",
     "정보처리기사 - 실기 - 정보 요약.md",
     "자격증/정보처리기사/실기",
-    "동국대/1학년/교양/일본어/일본어 문화 과제.md",
     "동국대/1학년/교양/일본어",
     "동국대/1학년/범죄심리학",
     "동국대/1학년/프로그래밍언어론",
     "동국대/1학년/범죄심리학/용감한 학생들.md",
     "자격증/정보처리기사/정보처리기사 필기 정리본.pdf",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
-    "동국대/1학년/교양/자연과학과기술세미나/자기세(09-19).md",
     "IMG_0264.jpeg",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다.md",
     "IMG_0263.jpeg",
