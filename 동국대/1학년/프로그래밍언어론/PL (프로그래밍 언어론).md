@@ -106,10 +106,12 @@ add(A, B, Sum) :- Sum is A + B.
 
 # 과제 2
 #### python 
-![[IMG_0261.jpeg]]
+![image](https://github.com/user-attachments/assets/821c227a-f0d3-4ede-9339-a50bdeab52ac)
+
 
 #### C
-![[IMG_0263.jpeg]]
+![image](https://github.com/user-attachments/assets/228add8f-f97c-4c01-b2ab-ad9862161c0b)
+
 
 #### JAVA
-![[IMG_0264.jpeg]]
+![image](https://github.com/user-attachments/assets/82938e16-1eca-49e9-a730-2b5e1360e601)
