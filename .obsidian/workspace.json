@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "645c25fc33d618c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7aa1c983edb83a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c70a6e6adc350cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정보처리기사 - 실기 - 정보 요약.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91e16b5775464666",
+    "type": "split",
+    "children": [
+      {
+        "id": "1805cf852a2b3e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615bd170d66609b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2425f1e2240ba88b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5a2dbb1fd38a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbe6bfd79ab1ed26",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c02fba012f9c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b91c6e9eb55d187",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "정보처리기사 - 실기 - 정보 요약.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a73b0d4331551e78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "정보처리기사 - 실기 - 정보 요약.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e52a3cfa7c9b0dca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7da41ac03d44634f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "정보처리기사 - 실기 - 정보 요약.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5c70a6e6adc350cf",
+  "lastOpenFiles": [
+    "동국대/1학년/범죄심리학/0926 범죄심리학 국내사례.md",
+    "동국대/1학년/범죄심리학/용감한 학생들.md",
+    "IMG_0263.jpeg",
+    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
+    "IMG_0290.jpeg",
+    "정보처리기사 - 실기 - 정보 요약.md",
+    "동국대/1학년/교양/자연과학과기술세미나/자기세 현황.md"
+  ]
+}
