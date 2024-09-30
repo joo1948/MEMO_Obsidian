@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfaa9781cf7675f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동국대 계정정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/CAPS - 인공지능/0990-스터디 1일차.md",
+                "file": "동국대 계정정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/CAPS - 인공지능/0990-스터디 1일차.md",
+                "file": "동국대 계정정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/CAPS - 인공지능/0990-스터디 1일차.md"
+                "file": "동국대 계정정보.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b00544bdfb56330",
+  "active": "bfaa9781cf7675f7",
   "lastOpenFiles": [
+    "Study/CAPS - 인공지능/0990-스터디 1일차.md",
+    "동국대 계정정보.md",
     "CAPS AI 스터디 1주차_neural networks, supervised learning.pdf",
     "정보처리기사 - 실기 - 정보 요약.md",
-    "Study/CAPS - 인공지능/0990-스터디 1일차.md",
     "Study/CAPS - 인공지능",
     "Study",
     "동국대/1학년/범죄심리학/0926 범죄심리학 국내사례.md",
