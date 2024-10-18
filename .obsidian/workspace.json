@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c70a6e6adc350cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "정보처리기사 - 실기 - 정보 요약.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b00544bdfb56330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/CAPS - 인공지능/0990-스터디 1일차.md",
+                "file": "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfaa9781cf7675f7",
+            "id": "6bd31413010b1690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동국대 계정정보.md",
+                "file": "중간고사 설명.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dbe6bfd79ab1ed26",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동국대 계정정보.md",
+                "file": "중간고사 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동국대 계정정보.md",
+                "file": "중간고사 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동국대 계정정보.md"
+                "file": "중간고사 설명.md"
               }
             }
           }
@@ -172,16 +160,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfaa9781cf7675f7",
+  "active": "6bd31413010b1690",
   "lastOpenFiles": [
+    "Pasted image 20241018192820.png",
+    "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
+    "골방 홍보.md",
+    "5)변수.pdf",
+    "4)파싱.pdf",
+    "3)구문법.pdf",
+    "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
+    "프로그래밍 언어.md",
+    "중간고사 설명.md",
+    "ref-덧셈 곱셈 수식기 파서(2024.09.25).pdf",
+    "동국대/1학년/범죄심리학/용감한 학생들.md",
+    "과제2_프로그래밍언어_2024113285_강주영.ipynb",
+    "동국대/1학년/교양/일본어/일본어 문화 과제.md",
+    "동국대/1학년/범죄심리학/0926 범죄심리학 국내사례.md",
+    "Pasted image 20241007151254.png",
+    "Pasted image 20241007151211.png",
+    "Pasted image 20241007150845.png",
+    "Pasted image 20241007150753.png",
+    "Pasted image 20241007150557.png",
     "Study/CAPS - 인공지능/0990-스터디 1일차.md",
+    "사망확인서 + 가족관계증명서.md",
+    "Pasted image 20241004135604.png",
+    "할머니 사망진단서.jpg",
+    "Pasted image 20241002004348.png",
     "동국대 계정정보.md",
     "CAPS AI 스터디 1주차_neural networks, supervised learning.pdf",
     "정보처리기사 - 실기 - 정보 요약.md",
     "Study/CAPS - 인공지능",
     "Study",
-    "동국대/1학년/범죄심리학/0926 범죄심리학 국내사례.md",
-    "동국대/1학년/범죄심리학/용감한 학생들.md",
     "IMG_0263.jpeg",
     "동국대/1학년/범죄심리학/0919 범죄심리학.md",
     "IMG_0290.jpeg",
