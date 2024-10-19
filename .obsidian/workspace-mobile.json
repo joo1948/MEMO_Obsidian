@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "e68a1840b56b2bd2",
+            "id": "fc1906260f6d3848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중간고사 설명.md",
+                "file": "일본어 한자 1학년 중간고사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "중간고사 설명"
+              "title": "일본어 한자 1학년 중간고사"
             }
           }
         ],
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "중간고사 설명.md",
+            "file": "일본어 한자 1학년 중간고사.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "중간고사 설명.md",
+            "file": "일본어 한자 1학년 중간고사.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "중간고사 설명.md"
+            "file": "일본어 한자 1학년 중간고사.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -190,10 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e68a1840b56b2bd2",
+  "active": "fc1906260f6d3848",
   "lastOpenFiles": [
-    "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
+    "일본어 한자 1학년 중간고사.md",
+    "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
+    "IMG_0294.jpeg",
     "중간고사 설명.md",
+    "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
     "동국대/1학년/프로그래밍언어론/중간고사.md",
     "Pasted image 20241002004348.png",
     "사망확인서 + 가족관계증명서.md",
@@ -207,7 +210,6 @@
     "Pasted image 20241007151211.png",
     "골방 홍보.md",
     "Pasted image 20241007151254.png",
-    "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
     "동국대/1학년/교양/자연과학과기술세미나/자기세(09-19).md",
     "프로그래밍 언어 중간고사.md",
     "ref-덧셈 곱셈 수식기 파서(2024.09.25).pdf",
@@ -225,7 +227,6 @@
     "최근 이슈 (국내사례 및 현재 법안) - 5가지.md",
     "동국대 계정정보.md",
     "CAPS AI 스터디 1주차_neural networks, supervised learning.pdf",
-    "IMG_0295.jpeg",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다.md",
     "Untitled.canvas",
     "동국대/1학년/교양/자연과학과기술세미나/과학은 반역이다 ( 1, 2, 4 ).md",
