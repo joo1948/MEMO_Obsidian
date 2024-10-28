@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b00544bdfb56330",
+            "id": "fd2d99d3054cc56a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "fd2d99d3054cc56a",
+            "id": "5934506238e32770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동국대/1학년/경찰학/경찰학 중간고사.md",
+                "file": "불교와 인간 - 중간고사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "경찰학 중간고사"
+              "title": "불교와 인간 - 중간고사"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dbe6bfd79ab1ed26",
@@ -179,8 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2d99d3054cc56a",
+  "active": "5934506238e32770",
   "lastOpenFiles": [
+    "불교와 인간 - 중간고사.md",
+    "동국대/1학년/프로그래밍언어론/중간고사 설명.md",
+    "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
+    "동국대/1학년/경찰학/경찰학 중간고사.md",
     "Pasted image 20241028204212.png",
     "Pasted image 20241028204201.png",
     "Pasted image 20241028204135.png",
@@ -192,11 +195,7 @@
     "Pasted image 20241024010509.png",
     "Pasted image 20241024010453.png",
     "동국대/1학년/경찰학",
-    "동국대/1학년/프로그래밍언어론/중간고사 설명.md",
-    "동국대/1학년/경찰학/경찰학 중간고사.md",
-    "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
     "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
-    "할머니 사망진단서.jpg",
     "프로그래밍 언어.md",
     "일본어 한자 1학년 중간고사.md",
     "일본 한자 답.md",
