@@ -27,16 +27,112 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동국대/1학년/교양/불교와인간/시험 설명 및 정리.md",
+                "file": "동국대/1학년/교양/자연과학과기술세미나/토론 보고서 작성 (3번 사례).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "시험 설명 및 정리"
+              "title": "토론 보고서 작성 (3번 사례)"
+            }
+          },
+          {
+            "id": "2444cc535234fbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥페이크 (Deepfake).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "딥페이크 (Deepfake)"
+            }
+          },
+          {
+            "id": "f0fe036bccf5110c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "발표 대본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "발표 대본"
+            }
+          },
+          {
+            "id": "04fd488506bd3a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥페이크 중간 발표 이후 교수님 설명.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "딥페이크 중간 발표 이후 교수님 설명"
+            }
+          },
+          {
+            "id": "012fa96f4719a892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "핸드폰.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "핸드폰"
+            }
+          },
+          {
+            "id": "ad004137e91a7f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "60834809c23338a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "c5d02fb5330babfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자기세 대본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자기세 대본"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -92,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dbe6bfd79ab1ed26",
@@ -108,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중간고사 설명.md",
+                "file": "자기세 대본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 중간고사 설명"
+              "title": "Backlinks for 자기세 대본"
             }
           },
           {
@@ -164,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +274,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5934506238e32770",
+  "active": "c5d02fb5330babfb",
   "lastOpenFiles": [
-    "불교와 인간 - 중간고사.md",
+    "자기세 대본.md",
+    "Untitled.md",
+    "핸드폰.md",
+    "딥페이크 중간 발표 이후 교수님 설명.md",
+    "발표 대본.md",
+    "딥페이크 (Deepfake).md",
+    "동국대/1학년/교양/자연과학과기술세미나/토론 보고서 작성 (3번 사례).md",
+    "Pasted image 20241029144600.png",
     "동국대/1학년/교양/불교와인간/시험 설명 및 정리.md",
+    "할머니 사망진단서.jpg",
+    "불교와 인간 - 중간고사.md",
     "동국대/1학년/교양/불교와인간",
     "동국대/1학년/프로그래밍언어론/중간고사 설명.md",
     "동국대/1학년/프로그래밍언어론/프로그래밍 언어 중간고사.md",
@@ -194,8 +299,6 @@
     "Pasted image 20241028204047.png",
     "Pasted image 20241024011003.png",
     "Pasted image 20241024010730.png",
-    "Pasted image 20241024010509.png",
-    "Pasted image 20241024010453.png",
     "동국대/1학년/경찰학",
     "동국대/1학년/프로그래밍언어론/PL (프로그래밍 언어론).md",
     "프로그래밍 언어.md",
@@ -216,14 +319,8 @@
     "ref-덧셈 곱셈 수식기 파서(2024.09.25).pdf",
     "동국대/1학년/범죄심리학/용감한 학생들.md",
     "과제2_프로그래밍언어_2024113285_강주영.ipynb",
-    "동국대/1학년/범죄심리학/0926 범죄심리학 국내사례.md",
-    "Study/CAPS - 인공지능/0990-스터디 1일차.md",
-    "동국대 계정정보.md",
     "CAPS AI 스터디 1주차_neural networks, supervised learning.pdf",
-    "정보처리기사 - 실기 - 정보 요약.md",
     "Study/CAPS - 인공지능",
-    "Study",
-    "동국대/1학년/범죄심리학/0919 범죄심리학.md",
-    "동국대/1학년/교양/자연과학과기술세미나/자기세 현황.md"
+    "Study"
   ]
 }
